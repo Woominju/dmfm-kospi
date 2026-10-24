@@ -1,6 +1,6 @@
 # Deep Multi-Factor Model on the KOSPI Market
 
-**Team project** · Sahong Park, Minju Woo (Investment Science, HUFS)
+**Team project** · Sahong Park, Minju Woo (Investment Theory and Optimization, HUFS)
 
 A replication of the Deep Multi-Factor Model (DMFM; Wei, Dai & Lin, 2022), originally tested on Chinese equities, on Korean stocks listed on KOSPI. The goal was to see whether its industry- and market-neutralization structure still adds value in a different market.
 
